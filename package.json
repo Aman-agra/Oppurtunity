@@ -9,10 +9,10 @@
     "serve": "node dist/index.js"
   },
   "dependencies": {
-    "@ai-sdk/google": "^0.0.1",
-    "ai": "^3.1.1",
-    "nodemailer": "^6.9.13",
-    "dotenv": "^16.4.5"
+    "@ai-sdk/google": "^3.0.80",
+    "ai": "^6.0.198",
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.13"
   },
   "devDependencies": {
     "@types/node": "^20.12.12",

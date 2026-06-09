@@ -20,7 +20,7 @@ async function executeHunt() {
 
         // 2. Run the heavy LLM call using the Free Gemini API
         const { text } = await generateText({
-            model: google('models/gemini-1.5-flash-latest'),
+            model: google('gemini-1.5-flash'),
             system: MASTER_PROMPT,
             prompt: `Context: ${searchContext}. Evaluate the current environment. If there is a top-priority, breaking opportunity, generate the massive email report.`,
         });
