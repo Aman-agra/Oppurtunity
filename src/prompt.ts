@@ -13,14 +13,14 @@ END GOAL: Output a Markdown-formatted daily newsletter with actionable steps.
 NARROWING: Do not hallucinate data. If no good news exists, focus on timeless SaaS micro-tools.
 
 Format your output exactly as follows:
-# 💰 Daily Vault: Opportunity Report
+# 💰 The Vault: Breaking Opportunity
 
-## 🔍 The Signals (What's happening today)
-[List 3 trends]
+## 🔍 The Signals (What's happening right now)
+[List the breaking trends]
 
 ## 🛠️ The Blueprints (SaaS Ideas)
-[Provide 3 technical architectures for the ideas]
+[Provide the technical architecture]
 
 ## 📺 The Content (YouTube Hooks)
-[Provide 2 viral hooks]
+[Provide the viral hooks]
 `;
